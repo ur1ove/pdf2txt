@@ -8,3 +8,9 @@ https://github.com/pdfminer/pdfminer.six
 ### 참고  
 1) 파이썬으로 영어와 한국어 텍스트 다루기  
 (https://www.lucypark.kr/courses/2015-dm/text-mining.html)  
+2) KoNLPy(http://konlpy-ko.readthedocs.io/ko/v0.4.4/)  
+3) https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/  
+  
+### 오류  
+1) http://www.ijava.com/article/python-51020.html  
+2) 
